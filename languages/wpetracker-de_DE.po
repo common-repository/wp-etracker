@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP etracker\n"
+"POT-Creation-Date: 2019-06-03 10:44+0200\n"
+"PO-Revision-Date: 2019-06-03 10:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tracklet.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: tracklet.php:190
+msgid "Error while updating option!"
+msgstr "Fehler beim Aktualisieren!"
+
+#: tracklet.php:306 tracklet.php:307
+msgid "Startseite"
+msgstr "Startseite"
+
+#: tracklet.php:378
+msgid "With Results"
+msgstr "Mit Ergebnisse"
+
+#: tracklet.php:378
+msgid "Without Results"
+msgstr "Ohne Ergebnisse"
+
+#: tracklet.php:405
+msgid "Search"
+msgstr "Suche"
+
+#: tracklet.php:405
+msgid "Header Search"
+msgstr "Suchfeld in Kopfzeile"
+
+#: views/meta_form.php:61 views/meta_form_tax.php:4
+msgid "Pagename:"
+msgstr "Seitenname:"
+
+#: views/meta_form.php:70
+msgid "Area:"
+msgstr "Bereich:"
+
+#: views/meta_form.php:79
+msgid "Browselinks:"
+msgstr "URL:"
+
+#: views/meta_form_tax.php:10
+msgid "Enter a value for this field leave blank for defaults"
+msgstr "Geben Sie für dieses Feld einen Wert ein oder lassen Sie es leer."
+
+#: views/meta_form_tax.php:18
+msgid "Area Name:"
+msgstr "Bereichsname:"
+
+#: views/meta_form_tax.php:24 views/meta_form_tax.php:38
+msgid "Enter a value for this field"
+msgstr "Geben Sie für dieses Feld einen Wert ein."
+
+#: views/meta_form_tax.php:32
+msgid "Post Url:"
+msgstr "Beitrags-URL"
+
+#: views/options.php:135
+msgid "Dashboard"
+msgstr "Übersicht"
+
+#: views/options.php:136
+msgid "Information"
+msgstr "Information"
+
+#: views/options.php:137
+msgid "Kaufkraft"
+msgstr "Kaufkraft"
+
+#: views/options.php:138
+msgid "Help"
+msgstr "Hilfe"
+
+#: views/pages/dashboard.php:14
+msgid "Account"
+msgstr "Benutzer"
+
+#: views/pages/dashboard.php:15
+msgid ""
+"Do you already have an account? Then enter here your account-key 1. If you "
+"don´t have one, you can create a free etracker.com test-account"
+msgstr ""
+"Haben Sie bereits einen etracker Account? Dann tragen Sie hier Ihren "
+"Accountschlüssel 1 ein. Alternativ bekommen Sie kostenfrei einen Test-"
+"Account hier"
+
+#: views/pages/dashboard.php:15
+msgid "here"
+msgstr "hier"
+
+#: views/pages/dashboard.php:17
+msgid "Add your account-key:"
+msgstr "Accountschlüssel hinzufügen:"
+
+#: views/pages/dashboard.php:19
+msgid "Account-Key..."
+msgstr "Account schlüssel..."
+
+#: views/pages/dashboard.php:24 views/pages/dashboard.php:224
+#: views/pages/dashboard.php:313
+msgid "Save"
+msgstr "Speichern"
+
+#: views/pages/dashboard.php:28
+msgid "I accept the"
+msgstr "Ich akzeptiere die"
+
+#: views/pages/dashboard.php:28
+msgid "general terms (AGBs)"
+msgstr "Geschäftsbedingungen (AGBs)"
+
+#: views/pages/dashboard.php:29 views/pages/dashboard.php:53
+#: views/pages/dashboard.php:80 views/pages/dashboard.php:104
+msgid "No"
+msgstr "Nein"
+
+#: views/pages/dashboard.php:34 views/pages/dashboard.php:58
+#: views/pages/dashboard.php:85 views/pages/dashboard.php:109
+msgid "Yes"
+msgstr "Ja"
+
+#: views/pages/dashboard.php:39
+msgid "etracker account-key"
+msgstr "etracker Account-schlüssel"
+
+#: views/pages/dashboard.php:41
+msgid ""
+"Add your account-key here, which you can find under your account info on "
+"etracker.com: Account Info → Settings → Account → Account-Key. The "
+"Accountschlüssel is needed so that the tracking data is associated with your "
+"account."
+msgstr ""
+"Fügen Sie hier Ihren etracker Accountschlüssel ein, den Sie in Ihrem "
+"etracker-Account unter Account Info → Einstellungen → Account → Account-"
+"Schlüssel → etracker Accountschlüssel finden. Der Accountschlüssel ist "
+"erforderlich um eine Verbindung Ihrer Webseite mit etracker zu erstellen. "
+
+#: views/pages/dashboard.php:52
+msgid "Automatically update posts?"
+msgstr "Beiträge automatisch überschreiben?"
+
+#: views/pages/dashboard.php:63
+msgid "Automatically update posts"
+msgstr "Beiträge automatisch überschreiben?"
+
+#: views/pages/dashboard.php:65
+msgid ""
+"If this field is activated, it will overwrite all site name and category "
+"changes to the standard ones.\n"
+"                            It is good to have this option activated once "
+"after your initial plugin install. Afterwards you can deactivate it, \n"
+"                            and add additional manual entries to areas and "
+"page names."
+msgstr ""
+"Fallst dieses Feld aktiv ist, werden alle manuellen Änderungen "
+"überschrieben, wenn sich der Seitename oder die Kategorie eines Artikels "
+"ändert.\n"
+"                            In der Regel sollten Sie diese Einstellung bei "
+"der Einrichtung Ihrer Webseite aktiv lassen und nachdem Sie damit fertig "
+"sind, wieder deaktivieren. "
+
+#: views/pages/dashboard.php:79
+msgid "Activate YouTube event tracking?"
+msgstr "YouTube Event Tracking aktivieren?"
+
+#: views/pages/dashboard.php:90
+msgid "Activate YouTube event tracking"
+msgstr "YouTube Event Tracking aktivieren"
+
+#: views/pages/dashboard.php:92
+msgid ""
+"If this field is activated, the YouTube event tracking is activated. Please "
+"ensure that your privacy protection page contains appropriate information "
+"about that."
+msgstr ""
+"Wenn diese Option aktiviert ist, ist das YouTube Event tracking aktiviert. "
+"Bitte stellen Sie bei aktiviertem Tracking sicher, dass in Ihrer "
+"Datenschutzerklärung ein entsprechender Text vorhanden ist. Sie sollten "
+"außerdem eine Einwilligung Ihrer Nutzer abfragen und eine Abwahlmöglichkeit "
+"anbieten."
+
+#: views/pages/dashboard.php:103
+msgid "Tracking code in page footer?"
+msgstr "Tracking-Code im Seitenfuss?"
+
+#: views/pages/dashboard.php:114
+msgid "Tracking code in page footer"
+msgstr "Tracking-Code im Seitenfuss"
+
+#: views/pages/dashboard.php:116
+msgid ""
+"If this field is activated, the etracker tracking code is integrated at the "
+"end of the page, otherwise it will be integrated in the page header"
+msgstr ""
+"Wenn die Option aktiviert ist, wird der etracker Tracking Code am Ende der "
+"Seite integriert. Ansonsten wird der Tracking Code  im Seitenkopf (Header) "
+"integriert."
+
+#: views/pages/dashboard.php:133
+msgid "Tracking posts in <span class=\"red\">Categories</span>"
+msgstr "Tracking auf <span class=\"red\">Kategorie-Basis</span>"
+
+#: views/pages/dashboard.php:136
+msgid "Choose Category"
+msgstr "Kategorie auswählen"
+
+#: views/pages/dashboard.php:218
+msgid "Add this area:"
+msgstr "Folgenden Bereich hinzufügen:"
+
+#: views/pages/dashboard.php:221 views/pages/dashboard.php:309
+msgid "Area ..."
+msgstr "Bereich ..."
+
+#: views/pages/dashboard.php:227
+msgid "Add areas to a category"
+msgstr "Kategorien einem Bereich zuordnen"
+
+#: views/pages/dashboard.php:229
+msgid ""
+"Here you can choose one or more categories. Your area will be added to all "
+"posts inside that category."
+msgstr ""
+"Hier können Sie eine oder mehrere Kategorien auswählen. Alle Beiträge "
+"innerhalb dieser Kategorie werden dem frei zu definierenden Bereich "
+"zugeordnet. "
+
+#: views/pages/dashboard.php:243
+msgid "Tracking <span class=\"red\">Pages</span>"
+msgstr "Tracking auf <span class=\"red\">Seiten-Basis</span>"
+
+#: views/pages/dashboard.php:246
+msgid "Choose Page"
+msgstr "Seite auswählen"
+
+#: views/pages/dashboard.php:249
+msgid "Search Page"
+msgstr "Seite suchen"
+
+#: views/pages/dashboard.php:307
+msgid "Add the following area:"
+msgstr "Folgenden Bereich hinzufügen: "
+
+#: views/pages/dashboard.php:317
+msgid "Add an area to sub-pages of a parent-page"
+msgstr "Unterbeiträge einer Seite einem Bereich zuordnen"
+
+#: views/pages/dashboard.php:319
+msgid "Here you can append an area to sub-pages of a page."
+msgstr ""
+"Hier können Sie Unterbeiträge von einer oder mehreren Seiten einem "
+"individuellen Bereich zuordnen. Alte Bereiche werden von der neuen Angabe "
+"überschrieben. "
+
+#: views/pages/hilfe.php:10
+msgid "WP ETRACKER DOCUMENTATION FOR WORDPRESS"
+msgstr "WP ETRACKER DOKUMENTATION FÜR WORDPRESS"
+
+#: views/pages/hilfe.php:11
+msgid "Below you find descriptions for functions of the WP etracker plugin."
+msgstr ""
+"Nachfolgend finden Sie die Beschreibung zur Funktionsweise des Plugins WP "
+"etracker."
+
+#: views/pages/hilfe.php:13
+msgid "1. WP etracker PlugIn installation"
+msgstr "1. WP etracker PlugIn installation"
+
+#: views/pages/hilfe.php:15
+msgid ""
+"First download the plugin as a zip-file. Navigate to Wordpress under plugins "
+"to: /wp-admin/plugin-install.php. Here you can now upload the plugin as a "
+"zip. As an alternative, you can also upload the plugin to the plugin "
+"directory via FTP."
+msgstr ""
+"Laden Sie dazu zuerst das PlugIn als .Zip-Datei kostenlos herunter. "
+"Navigieren Sie dann in WordPress zu den Plugins unter: /wp-admin/plugin-"
+"install.php. Sie können nun WP etracker als .Zip-Datei hochladen und "
+"installieren. Alternativ laden Sie die Datei per FTP in Ihr WordPress PlugIn-"
+"Verzeichnis."
+
+#: views/pages/hilfe.php:16
+msgid "Now you can activate the plugin in the plugin overview."
+msgstr "Danach aktivieren Sie das Plugin in der Plugin-Übersicht."
+
+#: views/pages/hilfe.php:18
+msgid "2. Add your etracker account-key and enable the plugin"
+msgstr "2. etracker Account-Schlüssel eintragen"
+
+#: views/pages/hilfe.php:19
+msgid ""
+"You have to add your personal account-key to be able to track data with your "
+"account. You can find your account key under etracker - settings - account "
+"info - account key 1."
+msgstr ""
+"Damit die Analytics Daten in Ihrem etracker.com Account korrekt erfasst "
+"werden, tragen Sie Ihren Account-Schlüssel ein. Diesen erhalten Sie direkt "
+"in etracker und tragen diese in den Optionen des WP etracker-PlugIns ein. "
+"Ihren Account-Schlüssel finden Sie auf etracker.com. Loggen Sie sich ein und "
+"gehen Sie auf den Menüpunkt Einstellungen/Setup-Tracking Code. "
+
+#: views/pages/hilfe.php:20
+msgid ""
+"The settings can be found under the WP etracker dashboard in your Wordpress "
+"sidebar on the left."
+msgstr ""
+"Die Einstellungen befinden sich in Ihrem WordPress Dashboard unter "
+"Einstellungen/WP etracker."
+
+#: views/pages/hilfe.php:22
+msgid "After you have added your key, the plugin has started tracking."
+msgstr ""
+"Nachdem der Account-Schlüssel eingetragen ist, werden Daten erfolgreich "
+"gemessen."
+
+#: views/pages/hilfe.php:24
+msgid "3. Add individual areas and pagenames to Wordpress posts and pages"
+msgstr "3. Bereiche zu Beiträge und Seiten hinzufügen"
+
+#: views/pages/hilfe.php:25
+msgid ""
+"If you have enabled automatical overwrite, the plugin will set the Wordpress "
+"title and category automatically as a standard to all URLs. If you want to "
+"update pagenames and areas manually, you can do this under each post/page "
+"after you have opened it. "
+msgstr ""
+"Fallst dieses Feld aktiv ist, werden alle manuellen Änderungen überschrieben "
+"wenn sich der Seitename oder die Kategorie eines Artikels ändert. In der "
+"Regel sollten Sie diese Einstellung bei der Einrichtung Ihrer Webseite aktiv "
+"lassen und nachdem Sie damit fertig sind, wieder deaktivieren."
+
+#: views/pages/hilfe.php:28
+msgid "4. Add Pagename to posts and pages"
+msgstr "4. Seitenbezeichnung zu Beiträge und Seiten hinzufügen"
+
+#: views/pages/hilfe.php:29
+msgid ""
+"The titles set at Wordpress will be taken in the default-state. The "
+"pagenames you can manually change under each post."
+msgstr ""
+"Von Werk aus werden die WordPress-Titel automatisch als Seitenbezeichnung "
+"gesetzt. Die Seitenbezeichnungen können manuell geändert werden unter den "
+"jeweilgen Beiträgen mit Hilfe von dem WP etracker-Tab."
+
+#: views/pages/hilfe.php:31
+msgid "5. Browselinks/URLs"
+msgstr ""
+"Die URLs werden automatisch an etracker.com übergeben und sind nicht "
+"veränderbar."
+
+#: views/pages/hilfe.php:32
+msgid "The URLs will be send to etracker automatically and can't be changed."
+msgstr ""
+"Die URLs werden automatisch an etracker.com übergeben und sind nicht "
+"veränderbar."
+
+#: views/pages/hilfe.php:34
+msgid "6. Dynamic pageviews"
+msgstr "6. Dynamische Seitenaufrufe"
+
+#: views/pages/hilfe.php:35
+msgid ""
+"Dynamic pageviews i.e. at Ajax-functions will be tracked automatically. Read "
+"more under our compabilitylist to see if your plugin is supported."
+msgstr ""
+"Dynamische Seitenaufrufe bei z.B. Ajax-Funktionalitäten werden automatisch "
+"übergeben. Lesen Sie dazu unter der Kompabilitätsliste ob das von Ihnen "
+"verwendete Plugin unterstützt wird."
+
+#: views/pages/hilfe.php:37
+msgid "7. Tracking of different languages"
+msgstr "7. Verschiedene Sprachversionen messen "
+
+#: views/pages/hilfe.php:38
+msgid ""
+"If you use the multi-language plugin „WPML“, areas will be automatically set "
+"individuall for each language. For this, short-language codes will be "
+"appeneded. Example:"
+msgstr ""
+"Sofern Sie das Plugin „WPML“ nutzen, werden Bereiche automatisch in "
+"verschiedenen Sprachen eingeteilt. Dafür werden die Sprachkürzel verwendet. "
+"Beispiel:"
+
+#: views/pages/hilfe.php:39
+msgid ""
+"a. German version: DE_Gesamt/DE_Shop/DE_kategorie3<br>b. English Version: "
+"EN_Gesamt/EN_Shop/EN_kategorie3"
+msgstr ""
+"a. Deutsche Version: DE_Gesamt/DE_Shop/DE_kategorie3<br>b. Englische "
+"Version: EN_Gesamt/EN_Shop/EN_kategorie3"
+
+#: views/pages/hilfe.php:41
+msgid "8. Event-Tracking"
+msgstr "8. Event-Tracking"
+
+#: views/pages/hilfe.php:42
+msgid ""
+"The following events will be tracked:<br>Tracking of downloads <br>Tracking "
+"of internal and external links <br> Tracking of music players (start/stop/"
+"play/etc.) <br>Tracking of video players (start/stop/play/etc.) <br> "
+"Tracking of galleries (start/stop/play/etc.) <br> logins"
+msgstr ""
+"Folgende Evente werden gemessen:<br>Messung von Downloads<br>Messung von "
+"interne und externe Klicks<br>Messung von Musikplayer (Start/Stop/Play/"
+"etc.)<br>Messung von Videoplayer (Start/Stop/Play/etc.)<br>Messung von "
+"Gallerien (Start/Stop/Play/etc.)<br>Logins"
+
+#: views/pages/hilfe.php:43
+msgid ""
+"See our compability list at WP-etracker.com which plugins are supported. If "
+"it doesn´t work with one of your plugins or a new version, don´t hesitate to "
+"contact our support."
+msgstr ""
+"Sehen Sie die Kompabilitätsliste aller Plugins an under WP-etracker.com. "
+"Falls ein Plugin nicht funktioniert, schreiben Sie den Support an."
+
+#: views/pages/hilfe.php:45
+msgid "9. Tracking of internal searches"
+msgstr "9. Messung der internen Suche"
+
+#: views/pages/hilfe.php:46
+msgid "Internal searches are tracked automatically"
+msgstr ""
+"Interne Suchen werden automatisch gemessen und an etracker.com weitergegeben."
+
+#: views/pages/hilfe.php:48
+msgid "10. Add areas to a category"
+msgstr "10. Allen Beiträgen einer ausgewählten Kategorien Bereiche zuordnen"
+
+#: views/pages/hilfe.php:49
+msgid ""
+"This setting is found under the WP etracker dashboard. Here you can append a "
+"specific area which will be added to all posts in the chosen categories."
+msgstr ""
+"Diese Option befindet sich in den Einstellungen des WP-etracker Plugins. "
+"Hier können Sie eine oder mehrere Kategorien auswählen. Alle Beiträge "
+"innerhalb dieser Kategorien wird der darunter eingegebene Bereich direkt "
+"zugeordnet."
+
+#: views/pages/hilfe.php:52
+msgid "11. Add an area to sub-pages of a parent-page"
+msgstr "11. Allen Unterbeiträge von Seiten Bereiche zuordnen"
+
+#: views/pages/hilfe.php:53
+msgid ""
+"This setting is found under the WP etracker dashboard. Here you can append a "
+"sepcific area to sub-pages of a page."
+msgstr ""
+"Diese Option befindet sich in den Einstellungen des WP-etracker Plugins. "
+"Hier können Sie Unterbeiträgen von einer oder mehreren Seiten einem "
+"individuellen Bereich zuordnen. Alle Beiträge die dort zugeordnet sind, "
+"werden von dem neuen Bereich überschrieben."
+
+#: views/pages/hilfe.php:56
+msgid "12. Automatically update posts"
+msgstr "12. Beiträge automatisch überschreiben"
+
+#: views/pages/hilfe.php:57
+msgid ""
+"If this field is active, all your sitenames and areas will be filled with "
+"the Wordpress page-titles and categories. This is useful to be activated "
+"once on your first run of WP etracker. If you keep it activated, and change "
+"a Wordpress title, the etracker pagename will be updated with the new "
+"Wordpress title. If it´s disabled, changes in Wordpress to Wordpress titles "
+"and categories won´t affect the pagenames and areas of etracker."
+msgstr ""
+"Fallst dieses Feld aktiv ist, werden alle manuellen Änderungen überschrieben "
+"wenn sich der Seitename oder die Kategorie eines Artikels ändert. In der "
+"Regel sollten Sie diese Einstellung bei der Einrichtung Ihrer Webseite aktiv "
+"lassen und nachdem Sie damit fertig sind, wieder deaktivieren."
+
+#. Plugin Name of the plugin/theme
+#: views/pages/information.php:9
+msgid "WP etracker"
+msgstr "WP etracker"
+
+#: views/pages/information.php:10
+msgid ""
+"WP etracker is the ultimate PlugIn for your Wordpress, WordPress Blog, Your "
+"Website or Your Shop, to track your sites with etracker."
+msgstr ""
+"WP etracker ist das ultimative PlugIn für WordPress, um Ihren WordPress "
+"Blog, Ihre Webseite oder Ihren Shop, mit den Produkten von etracker zu "
+"analysieren."
+
+#: views/pages/information.php:11
+msgid ""
+"With the following free plugin you can reliably send tracking-data to your "
+"etracker account."
+msgstr ""
+"Mit der hier vorliegenden kostenfreien Version des PlugIns können "
+"zuverlässig Analysedaten an etracker übertragen werden."
+
+#: views/pages/information.php:12
+msgid ""
+"Start now by analysing your Wordpress Site with the use of the WP etracker "
+"plugin."
+msgstr ""
+"Starten Sie jetzt durch und analysieren Sie Ihren WordPress Blog, Ihre "
+"Webseite oder Ihren Shop mit etracker durch den Einsatz des PlugIns WP "
+"etracker."
+
+#: views/pages/information.php:13
+msgid ""
+"Test now, together with a 30-day test version your etracker without any "
+"limitations."
+msgstr ""
+"Jetzt, zusammen mit der kostenfreien 30-Tage Version von etracker, ohne "
+"Einschränkungen testen."
+
+#: views/pages/information.php:14
+msgid ""
+"etracker is, hardly like any another provider, for its best practice-"
+"solutions in the professional website-optimization and online-marketing-"
+"measures known. Thanks to the advanced technology, plenty of innovations, "
+"personal support and good value for your money, etracker is one of the "
+"leading experts in Europe."
+msgstr ""
+"etracker ist wie kaum ein anderer Anbieter für seine Best Practice-Lösungen "
+"im Bereich professionelle Website-Optimierung und Online-Marketing-Maßnahmen "
+"bekannt. Dank der ausgereiften Technologie, zahlreicher Innovationen, "
+"persönlichem Support und einem ausgewogenen Preis-Leistungs-Verhältnis, "
+"zählt etracker europaweit zu den führenden Experten. Die Zufriedenheit der "
+"mehr als 110.000 Kunden dient nicht nur als Beweis für Qualität und "
+"Verlässlichkeit der Produkte und Dienstleistungen, sondern ist gleichzeitig "
+"auch Motivation, die das Unternehmen täglich zu neuen Höchstleistungen "
+"antreibt."
+
+#: views/pages/information.php:15
+msgid "You can test all features for free for 30 days:"
+msgstr "Testen Sie kostenlos alle Features der etracker Produkte!"
+
+#: views/pages/information.php:16
+msgid "30-day testing ✅"
+msgstr "30-tägiger Testzeitraum ✅"
+
+#: views/pages/information.php:17
+msgid "The testing-phase ends after this time automatically ✅"
+msgstr "Ihr Probeabo endet nach diesem Zeitraum automatisch ✅"
+
+#: views/pages/information.php:18
+msgid "Easy integration with WP etracker just with one key ✅"
+msgstr "Einfache Integration des Codes mittels WP etracker ✅"
+
+#: views/pages/information.php:19
+msgid "Access to all products and features ✅"
+msgstr "Zugriff auf alle Produkte und Features ✅"
+
+#: views/pages/information.php:20
+msgid "Free phone-support ✅"
+msgstr "Kostenfreier Telefon-Support ✅"
+
+#: views/pages/kaufkraft.php:10
+msgid "KAUFKRAFT optimized revenue."
+msgstr "KAUFKRAFT optimiert Umsätze."
+
+#: views/pages/kaufkraft.php:11
+msgid ""
+"The company developes the best-possible solutions for your E-Business. "
+"KAUFKRAFT gets you there, where you want to be with your Website-Business, "
+"your Web-Shop your Revenues. KAUFKRAFT optimizations are specialized in "
+"online trade."
+msgstr ""
+"Das Unternehmen entwickelt von Anfang an die bestmögliche Lösung für Ihr E-"
+"Business. KAUFKRAFT bringt Sie dorthin, wo Sie mit Ihrem Online-Business, "
+"Ihrem Web-Shop oder Ihren Umsätzen ankommen möchten. KAUFKRAFT ist auf "
+"Optimierungsprozesse im Onlinehandel spezialisiert."
+
+#: views/pages/kaufkraft.php:12
+msgid ""
+"KAUFKRAFT is a founding-member of the Netzwerk Deutscher Digital Agenturen "
+"and shareholder at the ONFINE AG, joint-venture of leading Online Marketing "
+"Agencies with over 200 employees and 15 locations."
+msgstr ""
+"KAUFKRAFT ist Gründungsmitglied im Netzwerk Deutscher Digital Agenturen und "
+"Gesellschafter der ONFINE AG, dem Zusammenschluss führender Online Marketing "
+"Agenturen mit über 200 Fachleuten an 15 Standorten."
+
+#: views/pages/kaufkraft.php:14
+msgid "KAUFKRAFT is your etracker Platinum Partner"
+msgstr "KAUFKRAFT ist etracker Platinum Partner"
+
+#: views/pages/kaufkraft.php:15
+msgid ""
+"KAUFKRAFT develops the official analytics PlugIn WP etracker, to append "
+"etracker to your Wordpress site and popular extensions like woocommerce."
+msgstr ""
+"KAUFKRAFT entwickelt das offizielle Analytics PlugIn WP etracker, um "
+"etracker einfach an WordPress und führende Erweiterungen wie woocommerce "
+"anzuschließen."
+
+#: views/pages/kaufkraft.php:16
+msgid ""
+"With tools like etracker, KAUFKRAFT optimized your marketing-activites and "
+"canalizes these as a DAA Member (Deutsche Analytics Association) for your "
+"clients. Enterprise Analytics for your company."
+msgstr ""
+"Mit Tools wie etracker analysiert und visualisiert das Unternehmen KAUFKRAFT "
+"Ihre Marketing-Aktivitäten und kanalisiert diese als DAA Member (Deutsche "
+"Analytics Association) auf die KAUFKRAFT Ihrer Kunden. Enterprise Analytics "
+"für Ihr Unternehmen."
+
+#. Plugin URI of the plugin/theme
+msgid "https://developer.wordpress.org/plugins/wpetracker/"
+msgstr "https://developer.wordpress.org/plugins/wpetracker/"
+
+#. Description of the plugin/theme
+msgid "Analysiere dein WordPress mit etracker."
+msgstr "Analysiere dein WordPress mit etracker."
+
+#. Author of the plugin/theme
+msgid "WP-etracker"
+msgstr "WP etracker"
+
+#. Author URI of the plugin/theme
+msgid "https://wp-etracker.com"
+msgstr "https://wp-etracker.com"
